@@ -1,4 +1,4 @@
-# Unity-Apps Created By Syeda Juveria Afreen
+# Unity-Apps Created By [Syeda Juveria Afreen](https://github.com/sja-thedude)
 
 # Worked on App Projects from Scratch:
 
@@ -11,3 +11,5 @@ Screenshots:
 | <img width="258" alt="Screenshot 2022-08-24 at 1 12 09 AM" src="https://user-images.githubusercontent.com/70269507/186277049-1c6113e6-f1c8-4ec0-ad1d-aae3e53e810e.png"> | <img width="258" alt="Screenshot 2022-08-24 at 1 12 23 AM" src="https://user-images.githubusercontent.com/70269507/186277041-7a500c5e-5031-4e89-99d3-de284eddd76b.png"> |
 
 ## Quiz APP (Working on)
+
+# To View Games made with Unity from scratch click [here](https://github.com/sja-thedude/Unity-Video-Games)
